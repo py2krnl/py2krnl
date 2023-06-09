@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://www.kali.org/docs/introduction/kali-undercover/kali-undercover-1.gif"  />
+    <img height="400" src="https://www.kali.org/docs/introduction/kali-undercover/kali-undercover-1.gif"  />
   </div>
   
   ###
